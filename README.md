@@ -9,7 +9,7 @@
 #Some supported commands:
 # set num1,num2,num3 - sets the led of device assigned to channel num2 having address num1 with value num3(0-255)
 # reset - resets own device
-# reset num - resets device on address num
+# reset num - resets device to address num
 # change num1,num2 - changes device address having address num1 to num2
 # sa num1,num2 - changes own device address from num1 to num2.
 
